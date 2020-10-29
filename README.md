@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on improving my coding skills
-- 🌱 I’m currently learning Data Structures & Algorithms 
+- 🌱 I’m currently learning Data Structures & Algorithms, Web developement 
 - 📫 How to reach me: https://www.linkedin.com/in/sahil-velhal-4a20a1194/ 
  <!--
   😄 Pronouns: ...
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
   <!--👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
+  
+### My Competetive Programming handles:
+[Codechef](https://www.codechef.com/users/thunderboltz_) ⭐⭐⭐ & 
+[Codeforces](https://codeforces.com/profile/thunderboltz) Newbie👶
