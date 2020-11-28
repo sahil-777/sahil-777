@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...-->
   
 ### My Competetive Programming handles:
-[Codechef](https://www.codechef.com/users/thunderboltz_) ⭐⭐⭐⭐ & 
+[Codechef](https://www.codechef.com/users/thunderboltz_) ⭐⭐⭐ & 
 [Codeforces](https://codeforces.com/profile/thunderboltz) Newbie👶
